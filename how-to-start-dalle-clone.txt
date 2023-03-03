@@ -1,0 +1,3 @@
+to start dalle-clone srever cd intoi server  npm start
+
+to start client cd intoi client npm run dev
